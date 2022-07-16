@@ -1,0 +1,109 @@
+html {
+  cursor: url('ew.png'),auto;
+
+}
+
+body {
+  background-image: url('806524.jpg');
+}
+
+p {
+  font-size: 30px;
+  color: rgb(253, 252, 252);
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 10%;
+  width: 100%;
+  font-family: myFirstFont;
+  cursor: url('ew.png'),auto;
+}
+
+
+p {
+  font-size: 50px;
+  color: rgb(248, 248, 248);
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 10%;
+  width: 100%;
+  font-family: myFirstFont;
+  cursor: url('ew.png'),auto;
+}
+
+
+
+div {
+  font-size: 30px;
+  color: rgb(255, 0, 0);
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 30%;
+  width: 100%;
+  font-family: myFirstFont;
+  cursor: url('ew.png'),auto;
+}
+
+h1 {
+  font-size: 30px;
+  color: rgb(255, 0, 0);
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 35%;
+  width: 100%;
+  font-family: myFirstFont;
+  cursor: url('ew.png'),auto;
+}
+
+h2 {
+  font-size: 30px;
+  color: rgb(255, 0, 0);
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  width: 100%;
+  font-family: myFirstFont;
+  cursor: url('ew.png'),auto;
+}
+
+h3 {
+  font-size: 30px;
+  color: rgb(255, 0, 0);
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 49%;
+  width: 100%;
+  font-family: myFirstFont;
+  cursor: url('ew.png'),auto;
+}
+
+h4 {
+  font-size: 50px;
+  color: rgb(255, 0, 0);
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 60%;
+  width: 100%;
+  font-family: myFirstFont;
+  cursor: url('ew.png'),auto;
+}
